@@ -34,8 +34,8 @@
               {
               "name": "ExcalJet Aviation",
                     "texture": [
-                        "/models/aircraft/premium/737_700/normal.jpg",
-                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "/models/aircraft/premium/737_700F/normal.jpg",
+                        "/models/aircraft/premium/737_700F/specular.jpg",
                         "https://raw.githubusercontent.com/NelSal10/ExcalJet-Aviation/refs/heads/main/liveries/Boeing_b737-700F.png"
                     ],
                     "credits": "NelSal10"
