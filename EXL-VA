@@ -147,7 +147,7 @@
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
               {
-              "name": "ExcalJet",
+              "name": "ExcalJet Concorde",
                     "texture": [
                         "/models/aircraft/premium/concorde/texture_0.jpg",
                         "https://i.ibb.co/zHXpp6gf/Excal-Jet-Concorde.png"
