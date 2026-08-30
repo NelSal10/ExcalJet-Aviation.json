@@ -146,8 +146,8 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
-             {
-              "name": "ExcalJet SST",
+              {
+              "name": "ExcalJet",
                     "texture": [
                         "/models/aircraft/premium/concorde/texture_0.jpg",
                         "https://i.ibb.co/zHXpp6gf/Excal-Jet-Concorde.png"
